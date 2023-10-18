@@ -18,3 +18,5 @@ title: "About Us"
 
 <p>We're more than just a study group; we're a movement towards a more informed, ethical, and innovative approach to artificial intelligence. So whether you're a seasoned professional in the field of AI or a curious enthusiast, there's a place for you here. Dive into the riveting world of AI with us, and let's shape the future, together!</p>
 
+[Contact Us](mailto:jay@hackerslab.xyz)
+
